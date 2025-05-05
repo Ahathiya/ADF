@@ -79,16 +79,20 @@
 		],
 		"parameters": {
 			"schema_name": {
-				"type": "String"
+				"type": "String",
+				"defaultValue": "dbo"
 			},
 			"table_name": {
-				"type": "String"
+				"type": "String",
+				"defaultValue": "retails_transactions_details"
 			},
 			"target_container": {
-				"type": "String"
+				"type": "String",
+				"defaultValue": "dev"
 			},
 			"target_directory": {
-				"type": "String"
+				"type": "String",
+				"defaultValue": "target-dataset"
 			}
 		},
 		"annotations": []
