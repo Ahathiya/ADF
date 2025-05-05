@@ -1,0 +1,9 @@
+{
+	"name": "adf-practices-ahathiya",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c3ca2754-cdb5-42a9-bb5c-729b19c1c02e",
+		"tenantId": "66756607-930b-48fb-8109-b94328bcddac"
+	}
+}

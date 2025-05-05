@@ -1,0 +1,11 @@
+{
+	"name": "ls_data_lake_storage",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobFS",
+		"typeProperties": {
+			"url": "https://practicesstoargeaccount.dfs.core.windows.net/"
+		}
+	}
+}
